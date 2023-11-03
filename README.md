@@ -29,6 +29,7 @@ This repository supply a user-friendly interactive interface for [YOLOv8](https:
 - Feature1: Object detection task.
 - Feature2: Multiple detection models. `yolov8n`, `yolov8s`, `yolov8m`, `yolov8l`, `yolov8x`
 - Feature3: Multiple input formats. `Image`, `Video`, `Webcam`
+- Feature4: You Can Also Add Your Custom Model
 
 ## Interactive Interface
 ### Image Input Interface
