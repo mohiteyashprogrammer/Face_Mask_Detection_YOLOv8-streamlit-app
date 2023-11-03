@@ -3,7 +3,7 @@
 """
 -------------------------------------------------
    @File Name:     app.py
-   @Author:        Luyao.zhang
+   @Author:        yash mohite
    @Date:          2023/5/15
    @Description:
 -------------------------------------------------
@@ -17,14 +17,14 @@ from utils import load_model, infer_uploaded_image, infer_uploaded_video, infer_
 
 # setting page layout
 st.set_page_config(
-    page_title="Interactive Interface for YOLOv8",
+    page_title="Face Mask Detection for YOLOv8",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
     )
 
 # main page heading
-st.title("Interactive Interface for YOLOv8")
+st.title("Face Mask Detection for YOLOv8")
 
 # sidebar
 st.sidebar.header("DL Model Config")
